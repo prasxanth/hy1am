@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: hy1am
+Version: 0.1
+Summary: A minimalistic test framework for Hy inspired by the Common Lisp 1am test package
+Home-page: UNKNOWN
+Author: Prashanth Kumar
+Author-email: prasxanth.kumar@gmail.com
+License: BSD 3-Clause License
+Keywords: test,Hy
+Platform: UNKNOWN
+Classifier: Topic :: Software Development
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Software/Developers
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+License-File: LICENSE
+
+UNKNOWN
+

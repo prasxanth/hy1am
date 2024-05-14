@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hy1am/__init__.py
+hy1am.egg-info/PKG-INFO
+hy1am.egg-info/SOURCES.txt
+hy1am.egg-info/dependency_links.txt
+hy1am.egg-info/not-zip-safe
+hy1am.egg-info/requires.txt
+hy1am.egg-info/top_level.txt
